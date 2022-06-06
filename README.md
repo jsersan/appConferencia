@@ -6,7 +6,7 @@ EAS 2021 se ejecuta en la web, IOS y Android.
 - Android: [Descargas](https://play.google.com/store/apps/details?id=io.ionic.conferences.eas2021)
 - Web: [https://eas21.ionic.io](https://eas21.ionic.io) (hosted on Vercel)
 
-## How to Run
+## Como ejecutar
 
 - Instala Ionic CLI: `npm install -g @ionic/cli`
 - Clona el repository
